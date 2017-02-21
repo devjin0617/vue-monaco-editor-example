@@ -8,7 +8,7 @@
         height='200'
         language="typescript"
         :code='code'
-      >
+      ></MonacoEditor>
     </div>
   </div>
 </template>
